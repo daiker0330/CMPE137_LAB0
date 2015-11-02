@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">CMPE137_LAB0</string>
+    <string name="app_name">CMPE137_LAB1</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="bg">bg</string>
+    <string name="hello">Hello World from Yunfan!</string>
+    <string name="Login">Login</string>
+    <string name="User">User:</string>
+    <string name="psw">Password:</string>
 </resources>
